@@ -1,0 +1,6 @@
+@MyProductSearch_HostAddress = http://localhost:5109
+
+GET {{MyProductSearch_HostAddress}}/ProductFilter/
+Accept: application/json
+
+###
