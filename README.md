@@ -1,5 +1,4 @@
---- Welcome ------
-This project cosists of a ASP .Net Core Web API Project.
+Welcome, This project cosists of a ASP .Net Core Web API Project.
 The following are the functionalities of the project 
 1. Fetched the product detail from the data source
 2. Filters the data based on the given parameters (4 parameters and all are optional)
