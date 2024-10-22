@@ -5,5 +5,5 @@ The following are the functionalities of the project
 2. Filters the data based on the given parameters (4 parameters and all are optional)
 3. Based on the fourth parameter highlight the content
 4. No authentication is required as its a public facing API
-5. A
+
 GIT Link : https://github.com/thidavur-suresh/MyProductFilter
